@@ -1,5 +1,7 @@
 # Building Large Language Models (LLMs)
 
+> [Lecture Link - Youtube](https://youtu.be/9vM4p9NN0Ts?si=fW_KNGhH_6IZGj6G)
+
 ## Introduction
 
 Large Language Models (LLMs) like ChatGPT, Claude, and Gemini represent the state-of-the-art in AI-driven conversational tools. These models leverage neural network architectures and massive datasets to generate human-like text. This document explores key aspects of LLMs, including their architecture, training process, and evaluation techniques.
