@@ -201,4 +201,3 @@ Still, the early hiccups remind us that while this approach is brilliant for rea
 
 ---
 
-Let me know if you want me to dive deeper into anything—like the math test or how they fixed the readability issues!
